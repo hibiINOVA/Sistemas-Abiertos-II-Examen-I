@@ -1,5 +1,4 @@
-# React App - Arquitectura con Componentes
-
+# React App + Vite
 Aplicación web desarrollada con React que implementa una arquitectura de componentes padre-hijo, gestión de estado y manejo de props para crear una interfaz interactiva y modular.
 
 ## Tecnologías Utilizadas
